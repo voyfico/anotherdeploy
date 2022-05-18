@@ -1,0 +1,15 @@
+.container {
+  margin: 13rem 13rem;
+  width: 25rem;
+  height: 24rem;
+  border: 8px solid #880423;
+  padding: 2rem;
+  display: flex;
+  font-family: DM Sans;
+  font-size: 4rem;
+  background-color: #ee869f;
+}
+
+h1 {
+  color: #880423;
+}/*# sourceMappingURL=main.css.map */

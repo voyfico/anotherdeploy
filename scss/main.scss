@@ -1,0 +1,18 @@
+
+$pink: #880423;
+
+.container {
+    margin: 13rem 13rem;
+    width: 25rem;
+    height: 24rem;
+    border: 8px solid $pink;
+    padding: 2rem;
+    display: flex;
+    font-family: DM Sans;
+    font-size: 4rem;
+    background-color: #ee869f;
+    }
+
+h1 {
+    color: $pink;
+}
